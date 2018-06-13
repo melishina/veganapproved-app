@@ -1,5 +1,5 @@
 # LOOKING FOR VEGAN APPROVED
-**Challenge:** Ingredients in products is hard to understand
+**Challenge:** Ingredients in products is hard to understand<br>
 **Goal:** Make it easier for people with special diets to find out if they can eat/buy a product or not
 _____________________________________________________________________________________
 For a costumer with special diets it can be hard to know what you can buy or not in the grocery store. You often need to check the index of the product to know if it's contains substances from animals, if it's nut, soy or gluten free. 
