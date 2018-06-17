@@ -1,4 +1,4 @@
-#LOOKING FOR VEGAN APPROVED
+# VEGAN APPROVED ITEMS
 **Challenge:** Ingredients in products is hard to understand<br>
 **Goal:** Make it easier for people with special diets to find out if they can eat/buy a product or not
 
